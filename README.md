@@ -12,7 +12,8 @@ Terrain and water flow simulation project
 
 <img src="data/imgs/previews/preview.png"/>
 
-Sources : https://bigtheta.io/2016/05/23/particle-based-fluid-simulation.html
+Sources</br>
+https://bigtheta.io/2016/05/23/particle-based-fluid-simulation.html
 </br>
 https://learnopengl.com
 </br>
